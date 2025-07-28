@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on movie-app<br><br>🌱 I’m currently learning React<br><br>👨‍💻 All of my projects are available at https://github.com/LawrenceKuria<br><br>📫 How to reach me i3uyer2@gmail.com
+🔭 I’m currently working on a personal portfolio and blog<br><br>🌱 I’m currently learning React<br><br>👨‍💻 All of my projects are available at https://github.com/LawrenceKuria<br><br>📫 How to reach me i3uyer2@gmail.com
 
 
 ## 🌐 Socials:
