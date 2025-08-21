@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on updating and maintaining a chrome extension<br><br>🌱 I’m currently learning Spring Boot<br><br>👨‍💻 All of my projects are available at https://github.com/LawrenceKuria<br><br>📫 How to reach me i3uyer2@gmail.com
+🔭 I’m currently working on updating and maintaining a RateMy Slugs chrome extension<br><br>🌱 I’m currently learning Spring Boot<br><br>👨‍💻 All of my projects are available at https://github.com/LawrenceKuria<br><br>📫 How to reach me i3uyer2@gmail.com
 
 
 ## 🌐 Socials:
